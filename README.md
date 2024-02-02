@@ -1,0 +1,2 @@
+# Evademeteors
+Simple javascript game
